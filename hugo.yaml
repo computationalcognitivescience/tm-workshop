@@ -2,14 +2,6 @@ baseURL: https://nataliasc.github.io
 languageCode: en-us
 title: Theoretical Modeling Workshop
 theme: ["PaperMod"]
+copyright: "[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Theoretical Modeling Workshop"
 
-params:
-  homeInfoParams:
-    Title: Contact
-    Content: For questions about the workshop, you can contact us via the email below.
-
-  socialIcons: # optional
-    - name: "email"
-      url: "mailto:natalia.scharfenberg@donders.ru.nl"
-    - name: "github"
-      url: "https://github.com/computationalcognitivescience"
+enableEmoji: true
