@@ -1,6 +1,9 @@
 +++
 title = 'Theoretical Modeling Workshop'
+ShowToc = true
 +++
+
+
 
 Cognitive and/or psychological theories often start as verbal descriptions of observed regularities in human behavior and some intuitive ideas about their causal origins. Such informal verbal theories are a good place to start explanations of cognition, but are also limited. For example, it is difficult to test if an informal theory is internally consistent, if the theory explains observed phenomena, and if the processes assumed by the theory are computationally and physically realizable. To make verbal theories more precise, scientists engage in theoretical modeling.  
 
@@ -14,13 +17,7 @@ There will be four contact sessions held online in Gathertown: The welcome sessi
 
 ## Opening lecture
 
-<div class="row mt-3 text-center">
-    <div class="col-sm mt-3 mt-md-0">
-      <iframe width="660" height="372" src="https://www.youtube.com/embed/9kZfTJhXjMI?si=IrXOG6KZIQekp6E2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-</div>
-
-<p></p>
+{{< youtube 9kZfTJhXjMI >}}
 
 ## Workshop schedule
 
