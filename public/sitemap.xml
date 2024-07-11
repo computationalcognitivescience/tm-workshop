@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/similarity/</loc>
+    <loc>http://localhost:1313/tm-workshop/posts/similarity/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/tm-workshop/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/subset-choice/</loc>
+    <loc>http://localhost:1313/tm-workshop/posts/subset-choice/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/tm-workshop/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/registration/</loc>
+    <loc>http://localhost:1313/tm-workshop/registration/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/categorization/</loc>
+    <loc>http://localhost:1313/tm-workshop/posts/categorization/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://localhost:1313/tm-workshop/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tm-workshop/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/tm-workshop/</loc>
   </url>
 </urlset>
