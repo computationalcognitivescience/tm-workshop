@@ -17,21 +17,14 @@ minify:
   disableXML: true
   # minifyOutput: true
 
-languages:
-  en:
-    languageName: "English"
-    weight: 1
-    taxonomies:
-      category: categories
-      tag: tags
-      series: series
-    menu:
-      main:
-        - name: Registration
-          url: registration
-          weight: 10
-        - name: Textbook
-          url: https://computationalcognitivescience.github.io/lovelace
+
+menu:
+  main:
+    - name: Registration
+      url: registration
+      weight: 10
+    - name: Textbook
+      url: https://computationalcognitivescience.github.io/lovelace
 
 
 outputs:
