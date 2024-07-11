@@ -4,8 +4,13 @@
     <title>Tags on Theoretical Modeling Workshop</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Theoretical Modeling Workshop</description>
+    <image>
+      <title>Theoretical Modeling Workshop</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- 0.128.2</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>CC BY 4.0 Theoretical Modeling Workshop</copyright>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

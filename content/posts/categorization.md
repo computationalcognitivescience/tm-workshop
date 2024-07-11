@@ -1,6 +1,6 @@
 +++
-title = 'First formalisation practice exercise'
-description = 'In the first formalisation practice exercise, you will work with your group to make a formalisation of subset choice '
+title = 'Second formalisation practice exercise'
+description = ''
 +++
 
 <div style="text-align: center;">
@@ -11,7 +11,7 @@ description = 'In the first formalisation practice exercise, you will work with 
         controls
         preload="auto"
         data-setup=''>
-    <source src="https://surfdrive.surf.nl/files/index.php/s/vah3QUqUgykBJ8P/download" type="video/mp4"></source>
+    <source src="https://surfdrive.surf.nl/files/index.php/s/6NBQxT9USVOEsqT/download" type="video/mp4"></source>
     <p class="vjs-no-js">
         To view this video please enable JavaScript, and consider upgrading to a
         web browser that
@@ -22,11 +22,10 @@ description = 'In the first formalisation practice exercise, you will work with 
     </video>
 </div>
 
-Please use [this link](https://www.overleaf.com/read/fdfngmkytwwq#c3730d) to find the LaTeX template for this assignment. When you have an Overleaf account, you can follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to make your own copy of the template which you can edit.  
-Further instructions can be found in the LaTeX template and the instructional video below.
+Please use [this link](https://www.overleaf.com/read/qgrwncfdxzbj#12643f) to find the LaTeX template for this assignment. When you have an Overleaf account, you can follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to make your own copy of the template which you can edit.  
+Further instructions can be found in the LaTeX template and the instructional video above.
 
 Please make sure that your LaTeX document compiles correctly before you submit it.
-
 
 
 <iframe
