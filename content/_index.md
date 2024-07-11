@@ -14,7 +14,7 @@ The workshop is open to interested Master students and PhD candidates. Check out
 
 
 The workshop will take place from September 2nd till October 17th.
-There will be four contact sessions held online in Gathertown: The welcome session on September 5th, two practice sessions on September 12th and 19th, and closing session on October 17th.
+There will be four contact sessions held online in Gathertown: the welcome session on September 5th, two practice sessions on September 12th and 19th, and the closing session on October 17th.
 
 ## Opening lecture
 
@@ -22,18 +22,18 @@ There will be four contact sessions held online in Gathertown: The welcome sessi
 
 ## Workshop schedule
 
-Week | Date and time | Activity type | Activity | Exercise
------|---------------|---------------|----------|----------
+Week | Date and time | Activity type | Activity 
+-----|---------------|---------------|----------
 **1**  |  | :book: | Read [Chapter 1](https://computationalcognitivescience.github.io/lovelace/part_i/intro) of the [Theoretical Modeling textbook](https://computationalcognitivescience.github.io/lovelace)
-|| Thursday, September 5, 13:30–15.30 | :busts_in_silhouette: | Welcome meeting | |
+|| Thursday, September 5, 13:30–15.30 | :busts_in_silhouette: | Welcome meeting | 
 **2** | | :book: | Read [Chapter 2](https://computationalcognitivescience.github.io/lovelace/part_i/foundations) and [Cummins (2000)](https://doi.org/10.7551/mitpress/2930.003.0009) [:page_facing_up:](https://www.researchgate.net/profile/Robert-Cummins-4/publication/282926459_%27How_does_it_Work%27_vs_%27What_are_the_Laws%27_Two_Conceptions_of_Psychological_Explanation/links/5fac2471299bf18c5b68d4fe/How-does-it-Work-vs-What-are-the-Laws-Two-Conceptions-of-Psychological-Explanation.pdf)
-|| Thursday, September 12, 13:30–16.30 | :busts_in_silhouette: :pencil: | Formalisation Practice I | Formalisation practice exercise I |
-||  | :pencil: | Read feedback on the first formalisation practice exercise | |
-**3** | Thursday, September 19, 13:30–16.30 | :busts_in_silhouette: :pencil: | Formalisation Practice II | Formalisation practice exercise II |
+|| Thursday, September 12, 13:30–16.30 | :busts_in_silhouette: :pencil: | Formalisation Practice I | 
+||  | :pencil: | Read feedback on the first formalisation practice exercise | 
+**3** | Thursday, September 19, 13:30–16.30 | :busts_in_silhouette: :pencil: | Formalisation Practice II | 
 **4** | September 23–29 | :surfer: | Break | 
 **5** | | :book: :pencil: | Select and read a paper for the assessment exercise (e.g., [Hahn et al. 2003](https://doi.org/10.1016/S0010-0277(02)00184-1) [:page_facing_up:](https://pcl.sitehost.iu.edu/rgoldsto/courses/concepts/hahnsim.pdf)) |
 || | :pencil: | Start working on the assessment exercise |
-**6** | | :pencil: | Finish working on the assessment exercise | Assessment exercise |
+**6** | | :pencil: | Finish working on the assessment exercise | 
 **7** | October 17, 13:30–15:30 | :busts_in_silhouette: | Closing session with QA, reflections, discussion, feedback |
 
 
