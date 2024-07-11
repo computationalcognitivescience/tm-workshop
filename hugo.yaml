@@ -4,4 +4,85 @@ title: Theoretical Modeling Workshop
 theme: ["PaperMod"]
 copyright: "[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Theoretical Modeling Workshop"
 
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Registration
+          url: registration
+          weight: 10
+        - name: Textbook
+          url: https://computationalcognitivescience.github.io/lovelace
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Theoretical Modeling Workshop"
+  author: 
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: false
+  # comments: false
+  images: ["images/papermod-cover.png"]
+
+  profileMode:
+    enabled: false
+    title: Theoretical Modeling Workshop
+    imageUrl: "#"
+    imageTitle: 
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Registration
+        url: registration
+
+  homeInfoParams:
+    Title: ""
+    Content: 
+
+  assets:
+    disableHLJS: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
