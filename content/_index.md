@@ -45,7 +45,7 @@ Week | Date and time | Activity type | Activity
 [![](/images/Iris.webp)](https://irisvanrooijcogsci.com) | | **Iris van Rooij** is a professor at the School of Psychology and Artificial Intelligence at Radboud University Nijmegen. She leads the Computational Cognitive Science  group at the Donders Institute for Brain, Cognition and Behaviour. 
 [![](/images/Mark.webp)](https://markblokpoel.com) | | **Mark Blokpoel** is an assistant professor at the School of Artificial Intelligence at Radboud University and member of the Computational Cognitive Science group at the Donders Institute for Brain, Cognition and Behaviour. | 
 [![](/images/Joshua.jpg)](https://pure.au.dk/portal/en/persons/filjcs%40cc.au.dk) | | **Joshua Skewes** | 
-[![https://www.ru.nl/personen/scharfenberg-n](/images/Natalia.webp)]() | |  **Natalia Scharfenberg** is a PhD candidate at the Donders Institute for Brain, Cognition, and Behaviour, and a junior lecturer at the the School of Artificial Intelligence at Radboud University. | 
+[![](/images/Natalia.webp)](https://www.ru.nl/personen/scharfenberg-n) | |  **Natalia Scharfenberg** is a PhD candidate at the Donders Institute for Brain, Cognition, and Behaviour, and a junior lecturer at the the School of Artificial Intelligence at Radboud University. | 
 
 ## License
 
