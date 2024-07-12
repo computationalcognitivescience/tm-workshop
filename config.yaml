@@ -15,7 +15,7 @@ mainsections: ["posts"]
 
 minify:
   disableXML: true
-  # minifyOutput: true
+  minifyOutput: true
 
 
 menu:
@@ -34,7 +34,7 @@ outputs:
     - JSON
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production 
   description: "Theoretical Modeling Workshop"
   author: 
   # author: ["Me", "You"] # multiple authors
