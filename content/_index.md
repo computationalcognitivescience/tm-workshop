@@ -4,7 +4,7 @@ ShowToc = true
 +++
 
 
-{{< figure src="/images/book-cover.png" width=320 attr="Theoretical Modeling textbook by [Mark Blokpoel](https://www.markblokpoel.com) and [Iris van Rooij](https://irisvanrooijcogsci.com/)" align=center link="https://computationalcognitivescience.github.io/lovelace" target="_blank" >}}
+{{< figure src="book-cover.png" width=320 attr="Theoretical Modeling textbook by [Mark Blokpoel](https://www.markblokpoel.com) and [Iris van Rooij](https://irisvanrooijcogsci.com/)" align=center link="https://computationalcognitivescience.github.io/lovelace" target="_blank" >}}
 
 Cognitive and/or psychological theories often start as verbal descriptions of observed regularities in human behavior and some intuitive ideas about their causal origins. Such informal verbal theories are a good place to start explanations of cognition, but are also limited. For example, it is difficult to test if an informal theory is internally consistent, if the theory explains observed phenomena, and if the processes assumed by the theory are computationally and physically realizable. To make verbal theories more precise, scientists engage in theoretical modeling.  
 
