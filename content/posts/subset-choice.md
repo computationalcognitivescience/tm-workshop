@@ -1,6 +1,7 @@
 +++
 title = 'First formalisation practice exercise'
-description = 'In the first formalisation practice exercise, you will work with your group to make a formalisation of subset choice '
+description = 'In the first formalisation practice exercise, you will work with your group to make a formalisation of subset choice'
+draft = true
 +++
 
 <div style="text-align: center;">

@@ -1,6 +1,7 @@
 +++
 title = 'Second formalisation practice exercise'
 description = ''
+draft = true
 +++
 
 <div style="text-align: center;">
