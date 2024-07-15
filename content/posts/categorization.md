@@ -1,6 +1,6 @@
 +++
 title = 'Second formalisation practice exercise'
-description = ''
+description = 'In the second formalisation practice exercise, you will work with your group to make a formalisation of categorization.'
 draft = true
 +++
 
@@ -23,10 +23,12 @@ draft = true
     </video>
 </div>
 
-Please use [this link](https://www.overleaf.com/read/qgrwncfdxzbj#12643f) to find the LaTeX template for this assignment. When you have an Overleaf account, you can follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to make your own copy of the template which you can edit.  
+Please use <a href="https://www.overleaf.com/read/qgrwncfdxzbj#12643f" target="_blank">this link</a> to find the LaTeX template for this assignment. When you have an Overleaf account, you can follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to make your own copy of the template which you can edit.  
+
 Further instructions can be found in the LaTeX template and the instructional video above.
 
-Please make sure that your LaTeX document compiles correctly before you submit it.
+Please make sure that your LaTeX document compiles correctly (i.e., Overleaf can generate a readable PDF) before you submit it.
+
 
 
 <iframe

@@ -1,6 +1,6 @@
 +++
-title = 'Assessment'
-description = ''
+title = 'Individual assignment'
+description = 'In this individual assignment, which is assessed for your final grade, you develop and propose your formalization of RD.'
 draft = true
 +++
 
@@ -32,10 +32,14 @@ To contextualize your formalization, provide your interpretation of the verbal t
 
 ### Handing-in instructions
 
-Please use the [following link](https://www.overleaf.com/read/rzfzrskmstwg#321fd2) to find the LaTeX template for this assignment. When you have an Overleaf account, you can follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to make your own copy of the template which you can edit.  
-Further instructions can be found in the LaTeX template and the instructional video below.
+Please use the <a href="https://www.overleaf.com/read/rzfzrskmstwg#321fd2" target="_blank">this link</a> to find the LaTeX template for this assignment. When you have an Overleaf account, you can follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to make your own copy of the template which you can edit. 
 
-Please make sure that your LaTeX document compiles correctly before you submit it.
+
+Please make sure that your LaTeX document compiles correctly (i.e., Overleaf can generate a readable PDF) before you submit it.
+
+### References
+
+Hahn, U., Chater, N., & Richardson, L.B.C. (2003). Similarity as Transformation. *Cognition*, 87.
 
 
 <iframe
