@@ -1,4 +1,4 @@
-baseURL: https://nataliasc.github.io/tm-workshop
+baseURL: https://computationalcognitivescience.github.io/tm-workshop
 languageCode: en-us
 title: Theoretical Modeling Workshop
 theme: ["PaperMod"]
@@ -15,7 +15,7 @@ mainsections: ["posts"]
 
 minify:
   disableXML: true
-  minifyOutput: true
+  # minifyOutput: true
 
 
 menu:
@@ -53,7 +53,7 @@ params:
   ShowPageNums: true
   ShowToc: false
   # comments: false
-  images: ["images/papermod-cover.png"]
+  # images: ["images/papermod-cover.png"]
 
   profileMode:
     enabled: false
