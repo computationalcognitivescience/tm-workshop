@@ -9,19 +9,18 @@
     <copyright>CC BY 4.0 Theoretical Modeling Workshop</copyright>
     <atom:link href="http://localhost:1313/tm-workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Assessment</title>
-      <link>http://localhost:1313/tm-workshop/posts/similarity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tm-workshop/posts/similarity/</guid>
-      <description>Assignment description Hahn et al. (2003) report 3 experiments, the findings of which they take as support for what they call the theory of Representational Distortion (RD). Hahn et al. describe RD as a general computational-level theory of similarity, with the purported ability to account for human similarity judgments in a wide variety of contexts and for wide variety of stimulus classes.
-Although RD is claimed to have some (intuitive) connections with the formal and uncomputable (!</description>
-    </item>
-    <item>
       <title>First formalisation practice exercise</title>
       <link>http://localhost:1313/tm-workshop/posts/subset-choice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tm-workshop/posts/subset-choice/</guid>
       <description>In the first formalisation practice exercise, you will work with your group to make a formalisation of subset choice.</description>
+    </item>
+    <item>
+      <title>Individual assignment</title>
+      <link>http://localhost:1313/tm-workshop/posts/similarity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tm-workshop/posts/similarity/</guid>
+      <description>In this individual assignment, which is assessed for your final grade, you develop and propose your formalization of RD.</description>
     </item>
     <item>
       <title>Registration</title>
