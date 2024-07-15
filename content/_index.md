@@ -10,7 +10,7 @@ Cognitive and/or psychological theories often start as verbal descriptions of ob
 
 A theoretical model describes, in a precise (formal) language, how we think that (a part of) cognition or behavior may work. In this workshop, you will learn to build such formal models. Afterwards, you can use the acquired formal modeling skills to develop your own theoretical models in your domain of interest in cognitive science or psychology.
 
-The workshop is open to interested Master students and PhD candidates. Check out the full [schedule](#workshop-schedule) below. [Registrations](/tm-workshop/registration) are on first come, first served basis.
+The workshop is open to interested Master students and PhD candidates. Check out the full [schedule](#workshop-schedule) below. [Registrations](/tm-workshop/registration) are on a first come, first served basis.
 
 
 The workshop will take place from September 2nd till October 17th.
@@ -31,7 +31,7 @@ Week | Date and time | Activity type | Activity
 ||  | :pencil: | Read feedback on the first formalisation practice exercise | 
 **3** | Thursday, September 19, 13:30–16.30 | :busts_in_silhouette: :pencil: | Formalisation Practice II | 
 **4** | September 23–29 | :surfer: | Break | 
-**5** | | :book: :pencil: | Select and read a paper for the assessment exercise (optional: [Hahn et al. 2003](https://doi.org/10.1016/S0010-0277(02)00184-1) [:page_facing_up:](https://pcl.sitehost.iu.edu/rgoldsto/courses/concepts/hahnsim.pdf) or a different paper in your domain of interest.) |
+**5** | | :book: :pencil: | Select and read a paper for the assessment exercise (optional: [Hahn et al. 2003](https://doi.org/10.1016/S0010-0277(02)00184-1) [:page_facing_up:](https://pcl.sitehost.iu.edu/rgoldsto/courses/concepts/hahnsim.pdf) or a different paper in your domain of interest) |
 || | :pencil: | Start working on the assessment exercise |
 **6** | | :pencil: | Finish working on the assessment exercise | 
 **7** | October 17, 13:30–15:30 | :busts_in_silhouette: | Closing session with QA, reflections, discussion, feedback |
@@ -45,7 +45,7 @@ Week | Date and time | Activity type | Activity
 [![](Natalia.webp)](https://www.ru.nl/personen/scharfenberg-n) | | **Natalia Scharfenberg** is a PhD candidate working on meta-theory in the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group, and a junior lecturer at the School of Artificial Intelligence (AI) at Radboud University. She coordinates this workshop.| 
 [![](Mark.webp)](https://markblokpoel.com) | | **Mark Blokpoel** is a computer scientist and computational cognitive scientist. He is an assistant professor at the School of AI and a senior researcher in the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group. He coordinates the Radboud-Aarhus Computational Cognitive Science collaboration. | 
 [![](Iris.webp)](https://irisvanrooijcogsci.com) | | **Iris van Rooij** is a psychologist and computational cognitive scientist. She is a professor at the School of AI, heads the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group, and is a guest professor at Aarhus University. 
-[![](Josh.jpg)](https://pure.au.dk/portal/en/persons/filjcs%40cc.au.dk) | | **Joshua Skewes** is an Associate Professor in Cognitive Science. He is Head of Department for Linguistics, Cognitive Science, and Semiotics, and Head of Department of Culture, Cognition, and Computation at Aarhus University, Denmark. |
+[![](Josh.jpg)](https://pure.au.dk/portal/en/persons/filjcs%40cc.au.dk) | | **Joshua Skewes** is an Associate Professor in Cognitive Science. He is Head of [Department for Linguistics, Cognitive Science, and Semiotics](https://cc.au.dk/en/about-the-school/departments/linguistics-cognitive-science-and-semiotics), and Head of Department of Culture, Cognition, and Computation at Aarhus University, Denmark. |
 
 ## License
 
