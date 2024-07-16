@@ -18,7 +18,7 @@ There will be four contact sessions held online in Gathertown: the welcome sessi
 
 ## Opening lecture
 
-{{< youtube 9kZfTJhXjMI >}}
+{{< youtube 7WFaI4R88J8 >}}
 
 ## Workshop schedule
 
