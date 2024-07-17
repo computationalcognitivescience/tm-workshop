@@ -13,8 +13,9 @@ A theoretical model describes, in a precise (formal) language, how we think that
 The workshop is open to interested Master students and PhD candidates. Check out the full [schedule](#workshop-schedule) below. [Registrations](/tm-workshop/registration) are on a first come, first served basis.
 
 
-The workshop will take place from September 2nd till October 17th.
-There will be four contact sessions held online in Gathertown: the welcome session on September 5th, two practice sessions on September 12th and 19th, and the closing session on October 17th. 
+The workshop will take place from **September 2nd till October 17th**.
+Physical presence in Nijmegen is not required in order to participate, as all of the contact sessions will be held online.
+These online contact sessions will take place in Gathertown: the welcome session on September 5th, two practice sessions on September 12th and 19th, and the closing session on October 17th. 
 
 ## Opening lecture
 
