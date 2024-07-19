@@ -10,7 +10,7 @@ Cognitive and/or psychological theories often start as verbal descriptions of ob
 
 A theoretical model describes, in a precise (formal) language, how we think that (a part of) cognition or behavior may work. In this workshop, you will learn to build such formal models. Afterwards, you can use the acquired formal modeling skills to develop your own theoretical models in your domain of interest in cognitive science or psychology.
 
-The workshop is open to interested Master students and PhD candidates. Check out the full [schedule](#workshop-schedule) below. [Registrations](/tm-workshop/registration) are on a first come, first served basis.
+The workshop is open to interested Master students and PhD candidates. Check out the full [schedule](#workshop-schedule) below. [Registration](/tm-workshop/registration) is open (spaces are limited).
 
 
 The workshop will take place from **September 2nd till October 17th**.
