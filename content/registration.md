@@ -2,7 +2,6 @@
 title: "Registration"
 ---
 
-Registration is on a first come, first served basis.
 
 <iframe
     id="JotFormIFrame-241830811248352"
