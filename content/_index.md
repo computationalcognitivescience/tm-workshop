@@ -54,7 +54,7 @@ The artwork by Danielle Navarro is released under the [CC BY-SA 4.0](https://cre
 
 ## Acknowledgements
 
- The workshop is part of an educational collaboration between the [AI programme](https://www.ru.nl/en/education/bachelors/artificial-intelligence) at [Radboud University](https://www.ru.nl), and the [Cognitive Science programme](https://cc.au.dk/en/about-the-school/subjects/cognitive-science) at Aarhus University, Denmark.
+ The workshop is part of an educational collaboration between the [AI programme](https://www.ru.nl/en/education/bachelors/artificial-intelligence) at [Radboud University](https://www.ru.nl), and the [Cognitive Science programme](https://cc.au.dk/en/about-the-school/subjects/cognitive-science) at Aarhus University, Denmark, supported by funding from [It-vest](https://www.it-vest.dk).
 This work was in part supported by a [Distinguished NIAS Lorentz Fellowship](https://nias.knaw.nl/fellowships/distinguished-lorentz-fellowship/) awarded to [Iris van Rooij](https://nias.knaw.nl/fellow/rooij-iris-van).
 We thank [Katarzyna Gugnowska](https://www.cbs.mpg.de/person/gugnowska/1843226) and [Alexander Enge](https://www.cbs.mpg.de/person/enge/1843226) who organised the [Tools for Theory workshop in 2021](https://www.cbs.mpg.de/en/tools-for-theory).
 
@@ -64,8 +64,9 @@ For questions related to the workshop, please contact [Natalia](mailto:natalia.s
 
 
 
-|   |      |   |       |      |   |
-|---|:----:|---| :-----:|-----|---|
+|   |      |   |       |      |
+|---|:----:|---| :-----:|-----|
 || [![](ccs.webp)](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) | | [![](Aarhus.png)](https://international.au.dk) ||
 || [![](ru_logo.svg)](https://www.ru.nl) | |  [![](donders_logo.svg)](https://www.ru.nl/en/donders-institute) ||
 ||[![](logo-NIAS_rood.png)](https://nias.knaw.nl) | | [![](lorentz.jpg)](https://www.lorentzcenter.nl) ||
+|| [![](it-vest.jpg)](https://www.it-vest.dk)
